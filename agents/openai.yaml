@@ -1,0 +1,4 @@
+interface:
+  display_name: "解释型内容共创"
+  short_description: "通过持续对话共同研究、搭建结构并完成解释型视频内容"
+  default_prompt: "使用 $co-create-explanatory-content 和我边讨论边创作这篇解释型内容。"
